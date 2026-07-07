@@ -1,0 +1,59 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.45" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#12051C"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="240" y1="80" x2="1340" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7EF9FF" stop-opacity="0.95"/>
+      <stop offset="0.5" stop-color="#FF3D81" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#FFD166" stop-opacity="0.95"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(290 120) rotate(90) scale(180 240)">
+      <stop stop-color="#7EF9FF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#7EF9FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1260 300) rotate(90) scale(170 220)">
+      <stop stop-color="#FF3D81" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#FF3D81" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M 56 0 L 0 0 0 56" stroke="#8AA0B7" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+    <filter id="blur" x="0" y="0" width="1600" height="420" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="420" rx="32" fill="url(#bg)"/>
+  <rect width="1600" height="420" rx="32" fill="url(#grid)"/>
+  <circle cx="290" cy="120" r="240" fill="url(#glow1)" filter="url(#blur)"/>
+  <circle cx="1260" cy="300" r="220" fill="url(#glow2)" filter="url(#blur)"/>
+
+  <path d="M0 82C180 48 300 124 460 92C650 54 770 18 940 54C1100 88 1224 150 1388 120C1478 104 1548 82 1600 68V0H0V82Z" fill="#7EF9FF" fill-opacity="0.08"/>
+  <path d="M0 392C176 342 312 322 456 350C638 385 790 410 944 372C1108 330 1228 270 1380 286C1476 296 1544 322 1600 340V420H0V392Z" fill="#FF3D81" fill-opacity="0.08"/>
+
+  <g opacity="0.9">
+    <rect x="156" y="84" width="288" height="44" rx="22" fill="#7EF9FF" fill-opacity="0.18" stroke="#7EF9FF" stroke-opacity="0.28"/>
+    <rect x="196" y="84" width="70" height="44" rx="22" fill="#7EF9FF" fill-opacity="0.65"/>
+    <rect x="278" y="84" width="68" height="44" rx="22" fill="#FF3D81" fill-opacity="0.65"/>
+    <rect x="356" y="84" width="68" height="44" rx="22" fill="#FFD166" fill-opacity="0.65"/>
+  </g>
+
+  <text x="800" y="198" text-anchor="middle" fill="#E9EEF9" font-family="Verdana, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="8">HARSHIL KHANNA</text>
+  <text x="800" y="254" text-anchor="middle" fill="url(#neon)" font-family="Verdana, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="4">SYNTH SYSTEMS // Y2K INTERFACES // AI INFRASTRUCTURE</text>
+  <text x="800" y="298" text-anchor="middle" fill="#8AA0B7" font-family="Verdana, Arial, sans-serif" font-size="18" letter-spacing="2">DARK MODE ENERGY, CLEAN TELEMETRY, AND A BIAS FOR SHARP TOOLS</text>
+
+  <g transform="translate(1238 74)">
+    <circle cx="0" cy="0" r="16" fill="#7EF9FF" fill-opacity="0.85"/>
+    <circle cx="36" cy="0" r="16" fill="#FF3D81" fill-opacity="0.85"/>
+    <circle cx="72" cy="0" r="16" fill="#FFD166" fill-opacity="0.85"/>
+    <circle cx="108" cy="0" r="16" fill="#7EF9FF" fill-opacity="0.85"/>
+  </g>
+
+  <g opacity="0.6">
+    <rect x="168" y="332" width="1264" height="2" fill="#E9EEF9" fill-opacity="0.5"/>
+    <rect x="168" y="336" width="1264" height="1" fill="#FF3D81" fill-opacity="0.35"/>
+  </g>
+</svg>

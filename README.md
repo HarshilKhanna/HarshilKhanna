@@ -1,10 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:050816,50:7c3aed,100:ff3d81&height=190&section=header&text=HARSHIL%20KHANNA&fontSize=46&fontColor=7ef9ff&fontAlignY=37&animation=fadeIn&desc=Synth%20systems%20%7C%20Y2K%20interfaces%20%7C%20AI%20infrastructure&descAlignY=59&descColor=ffd166&descSize=16" />
+<img width="100%" src="assets/y2k-hero.svg" alt="Synth Y2K header" />
 
-<a href="https://www.linkedin.com/in/harshil-khanna-542540315/"><img src="https://img.shields.io/badge/LinkedIn-7ef9ff?style=for-the-badge&logo=linkedin&logoColor=050816" /></a>
-<a href="mailto:khannaharshil2289@gmail.com"><img src="https://img.shields.io/badge/Email-ff3d81?style=for-the-badge&logo=gmail&logoColor=050816" /></a>
-<a href="https://github.com/HarshilKhanna"><img src="https://img.shields.io/badge/GitHub-ffd166?style=for-the-badge&logo=github&logoColor=050816" /></a>
+<table align="center">
+<tr>
+<td><a href="https://www.linkedin.com/in/harshil-khanna-542540315/"><img src="https://img.shields.io/badge/LinkedIn-7ef9ff?style=for-the-badge&logo=linkedin&logoColor=050816" /></a></td>
+<td><a href="mailto:khannaharshil2289@gmail.com"><img src="https://img.shields.io/badge/Email-ff3d81?style=for-the-badge&logo=gmail&logoColor=050816" /></a></td>
+<td><a href="https://github.com/HarshilKhanna"><img src="https://img.shields.io/badge/GitHub-ffd166?style=for-the-badge&logo=github&logoColor=050816" /></a></td>
+</tr>
+</table>
 
 </div>
 
@@ -120,17 +124,6 @@ Observability, distributed systems, and production-grade AI workflows with clean
 
 <br/>
 
-## Terminal Stats
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshilKhanna&show_icons=true&hide_border=true&bg_color=050816&title_color=ff3d81&icon_color=7ef9ff&text_color=e9eef9&ring_color=ffd166" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilKhanna&layout=compact&hide_border=true&bg_color=050816&title_color=ff3d81&text_color=e9eef9&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilKhanna&hide_border=true&background=050816&ring=ff3d81&fire=ffd166&currStreakLabel=7ef9ff&sideLabels=e9eef9&currStreakNum=e9eef9&sideNums=e9eef9&dates=8aa0b7" />
-
+<sub>snake animation appears after the workflow runs and publishes the <code>output</code> branch</sub>
 </div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:ff3d81,50:7c3aed,100:050816&height=120&section=footer" />
