@@ -1,28 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:0d0221,50:6a0dad,100:ff2e97&height=180&section=header&text=HARSHIL%20KHANNA&fontSize=46&fontColor=05d9e8&fontAlignY=38&animation=fadeIn&desc=Backend%20%2F%20Distributed%20Systems%20%2F%20AI%20Engineering&descAlignY=58&descColor=ff9e00&descSize=16" />
+<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:050816,50:7c3aed,100:ff3d81&height=190&section=header&text=HARSHIL%20KHANNA&fontSize=46&fontColor=7ef9ff&fontAlignY=37&animation=fadeIn&desc=Synth%20systems%20%7C%20Y2K%20interfaces%20%7C%20AI%20infrastructure&descAlignY=59&descColor=ffd166&descSize=16" />
 
-<a href="https://www.linkedin.com/in/harshil-khanna-542540315/"><img src="https://img.shields.io/badge/LinkedIn-05d9e8?style=for-the-badge&logo=linkedin&logoColor=0d0221" /></a>
-<a href="mailto:khannaharshil2289@gmail.com"><img src="https://img.shields.io/badge/Email-ff2e97?style=for-the-badge&logo=gmail&logoColor=0d0221" /></a>
-<a href="https://github.com/HarshilKhanna"><img src="https://img.shields.io/badge/GitHub-8c1eff?style=for-the-badge&logo=github&logoColor=0d0221" /></a>
+<a href="https://www.linkedin.com/in/harshil-khanna-542540315/"><img src="https://img.shields.io/badge/LinkedIn-7ef9ff?style=for-the-badge&logo=linkedin&logoColor=050816" /></a>
+<a href="mailto:khannaharshil2289@gmail.com"><img src="https://img.shields.io/badge/Email-ff3d81?style=for-the-badge&logo=gmail&logoColor=050816" /></a>
+<a href="https://github.com/HarshilKhanna"><img src="https://img.shields.io/badge/GitHub-ffd166?style=for-the-badge&logo=github&logoColor=050816" /></a>
 
 </div>
 
 <br/>
 
-## &nbsp;// About
+## About
 
 ```yaml
-role: Computer Science Engineering student — Vellore Institute of Technology
-focus: distributed systems, backend architecture, applied AI / RAG
-building: DocGraph AI — a GraphRAG document intelligence platform
-building: PingU — a distributed uptime & API monitoring platform
-past:    HPE · AIBlocks · Ernst & Young
+status: building synthy systems with practical Y2K energy
+role: Computer Science Engineering student at Vellore Institute of Technology
+focus: distributed systems, backend architecture, applied AI, RAG
+current: DocGraph AI, PingU, observability tooling, microservice platforms
+history: HPE, AIBlocks, Ernst & Young
 ```
 
 <br/>
 
-## &nbsp;// Stack
+## Core Stack
 
 <div align="center">
 
@@ -32,7 +32,7 @@ past:    HPE · AIBlocks · Ernst & Young
 
 <br/><br/>
 
-**Backend & APIs**
+**Backend**
 <br/>
 <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express&theme=dark" />
 
@@ -44,7 +44,7 @@ past:    HPE · AIBlocks · Ernst & Young
 
 <br/><br/>
 
-**Data & Storage**
+**Data**
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,neo4j,firebase&theme=dark" />
 
@@ -57,7 +57,7 @@ past:    HPE · AIBlocks · Ernst & Young
 
 <br/><br/>
 
-**DevOps & Observability**
+**DevOps**
 <br/>
 <img src="https://skillicons.dev/icons?i=docker,git,githubactions,grafana,prometheus&theme=dark" />
 
@@ -65,7 +65,7 @@ past:    HPE · AIBlocks · Ernst & Young
 
 <br/>
 
-## &nbsp;// Featured Builds
+## Featured Builds
 
 <table>
 <tr>
@@ -73,7 +73,7 @@ past:    HPE · AIBlocks · Ernst & Young
 
 **[DocGraph AI](https://github.com/HarshilKhanna/DocGraph)**
 <br/>
-Hybrid GraphRAG engine — HNSW vector search fused with semantic graph traversal over Neo4j, async multi-agent FastAPI backend on the Gemini Batch API.
+GraphRAG document intelligence with HNSW vector search, semantic graph traversal, and an async FastAPI backend on the Gemini Batch API.
 <br/><br/>
 `Python` `FastAPI` `Neo4j` `Gemini API` `React`
 
@@ -82,7 +82,7 @@ Hybrid GraphRAG engine — HNSW vector search fused with semantic graph traversa
 
 **[PingU](https://github.com/HarshilKhanna/PingU)**
 <br/>
-Distributed uptime & API monitoring platform — 7 microservices over RabbitMQ, 500+ concurrent probe slots, 7,500+ monitors tracked from 4 global regions.
+Distributed uptime and API monitoring platform built around 7 microservices, RabbitMQ, and 4 global regions.
 <br/><br/>
 `Next.js` `FastAPI` `TimescaleDB` `RabbitMQ` `Docker`
 
@@ -93,16 +93,16 @@ Distributed uptime & API monitoring platform — 7 microservices over RabbitMQ, 
 
 **[Baremetal AI](https://github.com/HarshilKhanna/Baremetal-AI)**
 <br/>
-Local-first VS Code extension for AI code auditing — runs entirely on-device through Ollama, zero data leaves the machine.
+Local-first VS Code extension for AI code auditing that runs fully on-device through Ollama.
 <br/><br/>
 `TypeScript` `VS Code API` `Ollama`
 
 </td>
 <td width="50%" valign="top">
 
-**Currently**
+**Current Focus**
 <br/>
-Building out observability tooling and microservice architectures at HPE — Prometheus, Grafana, and OpenTelemetry across distributed workloads.
+Observability, distributed systems, and production-grade AI workflows with clean telemetry and low-latency design.
 <br/><br/>
 `Microservices` `Observability` `Docker`
 
@@ -112,25 +112,25 @@ Building out observability tooling and microservice architectures at HPE — Pro
 
 <br/>
 
-## &nbsp;// Activity
+## Activity Feed
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/HarshilKhanna/HarshilKhanna/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/HarshilKhanna/HarshilKhanna/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <br/>
 
-## &nbsp;// Stats
+## Terminal Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshilKhanna&show_icons=true&hide_border=true&bg_color=0d0221&title_color=ff2e97&icon_color=05d9e8&text_color=e0e0e0&ring_color=8c1eff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilKhanna&layout=compact&hide_border=true&bg_color=0d0221&title_color=ff2e97&text_color=e0e0e0&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshilKhanna&show_icons=true&hide_border=true&bg_color=050816&title_color=ff3d81&icon_color=7ef9ff&text_color=e9eef9&ring_color=ffd166" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilKhanna&layout=compact&hide_border=true&bg_color=050816&title_color=ff3d81&text_color=e9eef9&langs_count=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilKhanna&hide_border=true&background=0d0221&ring=ff2e97&fire=ff9e00&currStreakLabel=05d9e8&sideLabels=e0e0e0&currStreakNum=e0e0e0&sideNums=e0e0e0&dates=8c1eff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilKhanna&hide_border=true&background=050816&ring=ff3d81&fire=ffd166&currStreakLabel=7ef9ff&sideLabels=e9eef9&currStreakNum=e9eef9&sideNums=e9eef9&dates=8aa0b7" />
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:ff2e97,50:6a0dad,100:0d0221&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:ff3d81,50:7c3aed,100:050816&height=120&section=footer" />
